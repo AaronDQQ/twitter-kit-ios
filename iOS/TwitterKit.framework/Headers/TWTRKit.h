@@ -19,7 +19,7 @@
 #import <Accounts/Accounts.h>
 #import <CoreMedia/CoreMedia.h>
 #import <Foundation/Foundation.h>
-//#import <TwitterCore/TwitterCore.h>
+#import <TwitterCore/TwitterCore.h>
 #import <UIKit/UIKit.h>
 
 #if __IPHONE_OS_VERSION_MIN_REQUIRED < 90000
